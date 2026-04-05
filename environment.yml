@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - anaconda-registration=*
+  - matplotlib=*
+  - pandas=*
+  - scikit-learn=*
+  - snowflake-ml-python=*
+  - snowpark-checkpoints-configuration=*
+  - xgboost=*
