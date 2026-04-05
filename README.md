@@ -183,7 +183,6 @@ Une application Streamlit déployée directement dans Snowflake permet aux utili
 
 ---
 
-## Contact
+## Réalisé par
 
-Envoi à : **axel@logbrain.fr**  
-Objet : `MBAESG_MBDIA-2025-2026_Classe1_EVALUATION_DATAENGINEER_MLOPS`
+Raouf OROU-GOURA
