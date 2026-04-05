@@ -186,3 +186,4 @@ Une application Streamlit déployée directement dans Snowflake permet aux utili
 ## Réalisé par
 
 Raouf OROU-GOURA
+Clovis Franklin MBENG ENYEGUE
